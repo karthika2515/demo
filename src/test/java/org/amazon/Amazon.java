@@ -39,6 +39,8 @@ private void test1() {
 			if (parseInt >= 35000) {
 				afterDuplicate.add(parseInt);
 				System.out.println("List of  price above $35000 :" + parseInt);
+				System.out.println("demo for git ");
+				
 			}
 
 		}
